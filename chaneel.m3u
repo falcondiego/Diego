@@ -1,0 +1,313 @@
+#EXTM3U
+
+#EXTINF:-1 ,A24
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/A24/SA_HLS/A24.m3u8
+
+#EXTINF:-1 ,AMC
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/AMC/SA_HLS/AMC.m3u8
+
+#EXTINF:-1 ,AMERICA
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
+
+#EXTINF:-1 ,ANIMAL PLANET
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
+
+#EXTINF:-1 ,AXN
+https://stationtv.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8
+
+#EXTINF:-1 ,BEIN SPORT
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+
+#EXTINF:-1 ,BOOMERANG
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Boomerang/SA_HLS/Boomerang.m3u8
+
+#EXTINF:-1 ,C5N
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/C5N/SA_HLS/C5N.m3u8
+
+#EXTINF:-1 ,CANAL 9
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve.m3u8
+
+#EXTINF:-1 ,CANAL 26
+https://live-edge01.telecentro.net.ar/live/26hd-720/TelevisionLibre.m3u8
+
+#EXTINF:-1 ,CARTOON NETWORK
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
+
+#EXTINF:-1 ,CENTRAL COMEDY
+https://stationtv.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
+
+#EXTINF:-1 ,CINECANAL
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal.m3u8
+
+#EXTINF:-1 ,CINEMAX
+https://stationtv.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
+
+#EXTINF:-1 ,CIUDAD MAGAZINE
+https://g5.mc-hor.transport.edge-access.net/a10/ngrp:magazine_live01-100083_all/Playlist.m3u8?sense=true
+
+#EXTINF:-1 ,CM MISICA
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/CM/SA_SAGEMCOM/CM.m3u8
+
+#EXTINF:-1 ,CNN
+https://stationtv.cdn.rcs.net.ar/mnp/cnn_hls/playlist.m3u8
+
+#EXTINF:-1 ,CRONICA TV
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Cronica/SA_HLS/Cronica.m3u8
+
+#EXTINF:-1 ,DEPORTV
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_SAGEMCOM/DeporTVHD.m3u8
+
+#EXTINF:-1 ,DIRECTV +
+https://ed11.zorrohd2.nl/live/flowitc96js.m3u8
+
+#EXTINF:-1 ,DIRECTV 2
+https://ed44.zorrohd2.nl/live/flowitc94l9.m3u8
+
+#EXTINF:-1 ,DIRECTV SPORT
+https://ed33.zorrohd2.nl/live/flowitc91zh.m3u8
+
+#EXTINF:-1 ,DISCOVERY KIDS
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids.m3u8
+
+#EXTINF:-1 ,DISCOVERY TURBO
+https://stationtv.cdn.rcs.net.ar/mnp/dsc_turbo_hls/playlist.m3u8
+
+#EXTINF:-1 ,DISCOVERY
+https://stationtv.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
+
+#EXTINF:-1 ,DISNEY CHANNEL
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel.m3u8
+
+#EXTINF:-1 ,DISNEY JUNIOR
+https://stationtv.cdn.rcs.net.ar/mnp/disneyjr_hls/playlist.m3u8
+
+#EXTINF:-1 ,DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
+
+#EXTINF:-1 ,EL TRECE
+https://stationtv.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
+
+#EXTINF:-1 ,EL GOURMET
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourmet.m3u8
+
+#EXTINF:-1 ,ESPN EXTRA
+https://stationtv.cdn.rcs.net.ar/mnp/espn_extra_hls/track_2_2500/playlist.m3u8
+
+#EXTINF:-1 ,ESPN PREMIUM
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
+
+#EXTINF:-1 ,ESPN
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
+
+#EXTINF:-1 ,ESPN 2
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
+
+#EXTINF:-1 ,ESPN 3
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_2499584=5.m3u8
+
+#EXTINF:-1 ,FOX ATION
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/FoxAction/SA_SAGEMCOM/FoxAction.m3u8
+
+#EXTINF:-1 ,FOX COMEDY
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/FoxComedy/SA_SAGEMCOM/FoxComedy.m3u8
+
+#EXTINF:-1 ,FOX FAMILY
+https://edge-live16-sl.cvattv.com.ar/live/live/FoxFamily/SA_SAGEMCOM/FoxFamily.m3u8
+
+#EXTINF:-1 ,FOX LIFE
+https://edge-live16-sl.cvattv.com.ar/live/c2live/Fox_Life/SA_SAGEMCOM/Fox_Life.m3u8
+
+#EXTINF:-1 ,FOX MOVIES
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+
+#EXTINF:-1 ,FOX PREMIUM 2
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium-avc1_2499584=8.m3u8
+
+#EXTINF:-1 ,FOX PREMIUM
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
+
+#EXTINF:-1 ,FOX SERIES
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+
+#EXTINF:-1 ,FOX SPORT 2
+https://stationtv.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
+
+#EXTINF:-1 ,FOX SPORT 3
+https://stationtv.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
+
+#EXTINF:-1 ,FOX SPORT
+https://ed55.zorrohd2.nl/live/flowitcj1qx.m3u8
+
+#EXTINF:-1 ,FX HD
+https://stationtv.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
+
+#EXTINF:-1 ,FXM
+https://stationtv.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
+
+#EXTINF:-1 ,GOL TV
+https://ed44.zorrohd2.nl/live/ST412c08bf3969afd.m3u8
+
+#EXTINF:-1 ,H2
+https://stationtv.cdn.rcs.net.ar/mnp/h2_hls/playlist.m3u8
+
+#EXTINF:-1 ,HBO 2
+https://stationtv.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
+
+#EXTINF:-1 ,HBO EXTREME
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
+
+#EXTINF:-1 ,HBO FAMILY
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
+
+#EXTINF:-1 ,HBO MUNDI
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
+
+#EXTINF:-1 ,HBO PLUS
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
+
+#EXTINF:-1 ,HBO POP
+https://stationtv.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
+
+#EXTINF:-1 ,HBO
+https://stationtv.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
+
+#EXTINF:-1 ,Hhd
+https://stationtv.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
+
+#EXTINF:-1 ,HyH DISCOVERY
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
+
+#EXTINF:-1 ,ID DISCOVERY
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
+
+#EXTINF:-1 ,LOVE NATURE
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 ,MTV
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/MTV_HD/SA_SAGEMCOM/MTV_HD.m3u8
+
+#EXTINF:-1 ,MUCH MUSIC
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music.m3u8
+
+#EXTINF:-1 ,MUSIC TOP
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1 ,NAT GEO WILD
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
+
+#EXTINF:-1 ,NAT GEO
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
+
+#EXTINF:-1 ,NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+
+#EXTINF:-1 ,NICK JR
+https://stationtv.cdn.rcs.net.ar/mnp/nickjr_hls/playlist.m3u8
+
+#EXTINF:-1 ,NICK
+https://stationtv.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
+
+#EXTINF:-1 ,PARAMOUNT NETWORK
+https://stationtv.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
+
+#EXTINF:-1 ,Q MUSIC
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Quiero_HD/SA_SAGEMCOM/Quiero_HD.m3u8
+
+#EXTINF:-1 ,RT
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+
+#EXTINF:-1 ,SBT
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist-480p.m3u8
+
+#EXTINF:-1 ,SHOW SPORT
+https://usher.ttvnw.net/api/channel/hls/canalshowsport.m3u8?allow_source=true&fast_bread=true&p=7444475&play_session_id=abafc772a27b96ad9cd55b63e68e5336&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=c685a2f732bfb397c3cdb5371369599f6dbc1449&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22canalshowsport%22%2C%22channel_id%22%3A507483380%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%220df84fef687c56ac%22%2C%22expires%22%3A1660588257%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.183.30.82%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.13.0
+
+#EXTINF:-1 ,SMITHSONIAN CHANNEL
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 ,SONY CHANNEL
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Sony/SA_HLS/Sony.m3u8
+
+#EXTINF:-1 ,SPACE
+https://stationtv.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
+
+#EXTINF:-1 ,STAR ACTION
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/FoxAction/SA_SAGEMCOM/FoxAction.m3u8
+
+#EXTINF:-1 ,STAR CHANNEL
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
+
+#EXTINF:-1 ,STAR CINEMA
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+
+#EXTINF:-1 ,STAR COMEDY
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/FoxComedy/SA_SAGEMCOM/FoxComedy.m3u8
+
+#EXTINF:-1 ,STAR FUN
+https://edge-live16-sl.cvattv.com.ar/live/live/FoxFamily/SA_SAGEMCOM/FoxFamily.m3u8
+
+#EXTINF:-1 ,STAR LIFE
+https://edge-live16-sl.cvattv.com.ar/live/c2live/Fox_Life/SA_SAGEMCOM/Fox_Life.m3u8
+
+#EXTINF:-1 ,STAR SERIES
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+
+#EXTINF:-1 ,STUDIO UNVERSAL
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
+
+#EXTINF:-1 ,SYFY
+https://stationtv.cdn.rcs.net.ar/mnp/syfy_hls/playlist.m3u8
+
+#EXTINF:-1 ,TBS
+https://stationtv.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
+
+#EXTINF:-1 ,TCM
+https://stationtv.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
+
+#EXTINF:-1 ,TELEFE
+https://stationtv.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
+
+#EXTINF:-1 ,TELEFUTURO
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=5aa5d67e1018a4d5eeb7b6828f83cc1dca0d25852b16bca22a7f84dba1a02902&exp=1658435120
+
+#EXTINF:-1 ,TIGO SPORT
+https://ed11.zorrohd2.nl/live/ST6f18af4dfb8b268.m3u8
+
+#EXTINF:-1 ,TLC DISCOVERY
+https://stationtv.cdn.rcs.net.ar/mnp/dsc_tlc_hls/playlist.m3u8
+
+#EXTINF:-1 ,TLX HD
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1 ,TN NOTICIAS
+https://stationtv.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
+
+#EXTINF:-1 ,TNT SERIES
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries.m3u8
+
+#EXTINF:-1 ,TNT SPORT
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+
+#EXTINF:-1 ,TNT
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
+
+#EXTINF:-1 ,TOONCAST
+https://stationtv.cdn.rcs.net.ar/mnp/tooncast_hls/playlist.m3u8
+
+#EXTINF:-1 ,TRU TV HD
+https://stationtv.cdn.rcs.net.ar/mnp/trutv_hls/playlist.m3u8
+
+#EXTINF:-1 ,TV PUBLICA
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica.m3u8
+
+#EXTINF:-1 ,TYC SPORT
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+
+#EXTINF:-1 ,UNIVERSAL TV
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal.m3u8
+
+#EXTINF:-1 ,VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
+#EXTINF:-1 ,WARNER CHANNEL
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8
